@@ -23,7 +23,7 @@
 Склонируйте репозиторий преподавателя.
 
 ```bash
-git clone <ссылка_на_репозиторий>
+git clone git@github.com:6Katana9/KPI.git
 ```
 
 ---
