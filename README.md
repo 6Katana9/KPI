@@ -31,7 +31,7 @@ git clone git@github.com:6Katana9/KPI.git
 # Шаг 2. Перейдите в папку проекта
 
 ```bash
-cd git-practice
+cd kpi
 ```
 
 ---
