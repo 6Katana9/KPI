@@ -47,7 +47,7 @@ ivan-ivanov
 ```
 
 ```
-sultan-tlebekov
+sultan-talaibekov
 ```
 
 Создание ветки:
